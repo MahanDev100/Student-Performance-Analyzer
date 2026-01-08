@@ -15,4 +15,4 @@ A Python CLI tool to track and analyze student study performance. Users can add 
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/MahanDev100/Student-Performance-Analyzer.git
